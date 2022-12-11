@@ -9,3 +9,7 @@ I know
 2. Node.js 
 3. Repl.it
 4. CHALK
+
+My Fav sport
+1. Football
+2. Badminton
